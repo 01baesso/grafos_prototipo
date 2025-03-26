@@ -1,0 +1,4 @@
+exemplo.txt 7 7 
+ponte.txt 4 4 
+zachary.txt 34 34 
+
